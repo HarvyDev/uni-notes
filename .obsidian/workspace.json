@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CD/SCD.md",
+                "file": "SI/SchedulesAndConflicts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CD/SCD.md",
+                "file": "SI/SchedulesAndConflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CD/SCD.md",
+                "file": "SI/SchedulesAndConflicts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CD/SCD.md"
+                "file": "SI/SchedulesAndConflicts.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "7664ba44214b8023",
   "lastOpenFiles": [
+    "SI/ConcurrencyProblems.md~",
+    "SI/SchedulesAndConflicts.md~",
     "CD/SCD-Caracteristicas.md",
     "CD/SCDMeiosDeTransmissão.md",
     "CD/SCD.md",
