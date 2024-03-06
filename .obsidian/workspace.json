@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SI/WaitForGraph.md",
+                "file": "SI/IsolationLevels.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI/WaitForGraph.md",
+                "file": "SI/IsolationLevels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SI/WaitForGraph.md",
+                "file": "SI/IsolationLevels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SI/WaitForGraph.md"
+                "file": "SI/IsolationLevels.md"
               }
             }
           }
@@ -148,28 +148,31 @@
   },
   "active": "7664ba44214b8023",
   "lastOpenFiles": [
-    "SI/WaitForGraph.md~",
-    "SI/Recoverability.md",
-    "SI/TransactionStates.md",
+    "SI/MiniTeste1/TransactionStates.md",
     "SI/IsolationLevels.md",
-    "SI/Conflicts.md",
-    "SI/WaitForGraph.md",
+    "SI/MiniTeste1/WaitForGraph.md",
+    "SI/Recoverability.md",
+    "SI/images/IsolationTable.png",
+    "SI/images/TransactionStates.png",
+    "SI/MiniTeste1/ACID.md",
+    "SI/MiniTeste1/Serializability.md~",
+    "SI/MiniTeste1/Serializability.md",
+    "SI/MiniTeste1/ConcurrencyProblems.md",
+    "SI/MiniTeste1/Schedule.md",
+    "SI/MiniTeste1/Schedule.md~",
+    "SI/MiniTeste1/Conflicts.md",
+    "SI/MiniTeste1",
+    "SI/WaitForGraph.md~",
     "SI/TransactionStates.md~",
-    "SI/Serializability.md",
     "SI/SchedulesConflictsAndRecoverability.md~",
     "SI/Conflicts.md~",
     "SI/SchedulesConflictsAndRecoverability.md",
-    "SI/ConcurrencyProblems.md",
-    "SI/ACID.md",
     "SI/ACID.md~",
     "SI/IsolationLevels.md~",
     "SI/ConcurrencyProblems.md~",
-    "SI/SchedulesAndConflicts.md~",
     "CD/SCD-Caracteristicas.md",
     "CD/SCDMeiosDeTransmissão.md",
     "CD/SCD.md",
-    "CD/SCD-Caracteristicas.md~",
-    "CD/SCDMeiosDeTransmissão.md~",
     "CD/images/Satelite.png",
     "CD/images/Fibra.png",
     "CD/images/Coaxial.png",
@@ -178,9 +181,6 @@
     "CD/images/CD6.png",
     "CD/CD6.png",
     "CD6.png",
-    "CD/SCD.md~",
-    "CD/images/CD5.png",
-    "CD/images/CD4.png",
     "CD/SistemasDeComunicaçãoDigitaleAplicaçoes.md"
   ]
 }

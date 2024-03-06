@@ -15,5 +15,5 @@ However, a transaction can go to the **failed state** if one of the checks fails
 
 The following figure shows a state transition diagram that illustrates how a transaction moves through its execution states.
 
-![Transaction States](./images/TransactionStates.png)
+![Transaction States](TransactionStates.png)
 **Figure 1**: Transaction States Diagram

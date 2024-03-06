@@ -26,5 +26,3 @@ The **isolation level** option in specified using the statement ISOLATION LEVEL 
 | READ COMMITTED  | No         | Yes                | Yes     |
 | REPEATABLE READ | No         | No                 | Yes     |
 | SERIALIZABLE    | No         | No                 | No      |
-
-

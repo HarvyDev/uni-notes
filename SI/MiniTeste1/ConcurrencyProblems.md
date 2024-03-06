@@ -24,4 +24,7 @@ If one transaction is calculating an aggregate summary function on a number of d
 
 Another problem that may occur is called unrepeatable read, where a transaction T reads the same item twice and the item is changed by another transaction T' between the two reads. Hence, T receives different values for its two reads of the same item.
 
+## The Phantom Problem
+
+A transaction T1 may read a set of rows from a table, perhaps based on some condition specified on the SQL WHERE clause. Now suppose that a transaction T2 inserts a new row that also satisfies the WHERE clause condition used in T1, into the table used by T1. If T1 is repeated, then T1 will see a phantom, a row that previously did not exist.
 
