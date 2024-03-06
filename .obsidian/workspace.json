@@ -11,8 +11,12 @@
             "id": "7664ba44214b8023",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SI/WaitForGraph.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SI/WaitForGraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SI/WaitForGraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SI/WaitForGraph.md"
+              }
             }
           }
         ]
@@ -140,16 +148,18 @@
   },
   "active": "7664ba44214b8023",
   "lastOpenFiles": [
-    "SI/TransactionStates.md~",
+    "SI/WaitForGraph.md~",
     "SI/Recoverability.md",
+    "SI/TransactionStates.md",
+    "SI/IsolationLevels.md",
+    "SI/Conflicts.md",
+    "SI/WaitForGraph.md",
+    "SI/TransactionStates.md~",
     "SI/Serializability.md",
     "SI/SchedulesConflictsAndRecoverability.md~",
-    "SI/Conflicts.md",
     "SI/Conflicts.md~",
-    "SI/TransactionStates.md",
     "SI/SchedulesConflictsAndRecoverability.md",
     "SI/ConcurrencyProblems.md",
-    "SI/IsolationLevels.md",
     "SI/ACID.md",
     "SI/ACID.md~",
     "SI/IsolationLevels.md~",
