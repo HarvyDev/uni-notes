@@ -14,7 +14,7 @@ Therefore, in a serial schedule, only one transaction at a time is active (the c
 
 **No interleaving occurs in a serial schedule.**
 
-It does not matter which transaction is executed first. As long as every transaction is executed from the beginning to endd in isolation from the operations of other transactions, we get a correct end result on the database.
+It does not matter which transaction is executed first. As long as every transaction is executed from the beginning to end in isolation from the operations of other transactions, we get a correct end result on the database.
 
 The definition of serializable schedule is as follows:
     - A schedule S of n transactions is **serializable** if it is equivalent to some serial schedule of the same n transactions.
