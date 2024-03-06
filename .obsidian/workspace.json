@@ -11,12 +11,8 @@
             "id": "7664ba44214b8023",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SI/SchedulesAndConflicts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI/SchedulesAndConflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SI/SchedulesAndConflicts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SI/SchedulesAndConflicts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,19 @@
   },
   "active": "7664ba44214b8023",
   "lastOpenFiles": [
+    "SI/TransactionStates.md~",
+    "SI/Recoverability.md",
+    "SI/Serializability.md",
+    "SI/SchedulesConflictsAndRecoverability.md~",
+    "SI/Conflicts.md",
+    "SI/Conflicts.md~",
+    "SI/TransactionStates.md",
+    "SI/SchedulesConflictsAndRecoverability.md",
+    "SI/ConcurrencyProblems.md",
+    "SI/IsolationLevels.md",
+    "SI/ACID.md",
+    "SI/ACID.md~",
+    "SI/IsolationLevels.md~",
     "SI/ConcurrencyProblems.md~",
     "SI/SchedulesAndConflicts.md~",
     "CD/SCD-Caracteristicas.md",
@@ -166,7 +171,6 @@
     "CD/SCD.md~",
     "CD/images/CD5.png",
     "CD/images/CD4.png",
-    "CD/SistemasDeComunicaçãoDigitaleAplicaçoes.md",
-    "CD/SistemasDeComunicaçãoDigitaleAplicaçoes.md~"
+    "CD/SistemasDeComunicaçãoDigitaleAplicaçoes.md"
   ]
 }
