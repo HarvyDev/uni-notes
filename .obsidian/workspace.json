@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SI/MiniTeste1/Schedule.md",
-                "mode": "source",
+                "file": "SI/TypesOfLocks.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI/MiniTeste1/Schedule.md",
+                "file": "SI/TypesOfLocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SI/MiniTeste1/Schedule.md",
+                "file": "SI/TypesOfLocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SI/MiniTeste1/Schedule.md"
+                "file": "SI/TypesOfLocks.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "7664ba44214b8023",
   "lastOpenFiles": [
-    "SI/MiniTeste1/Conflicts.md",
-    "SI/MiniTeste1/Recoverability.md",
-    "SI/MiniTeste1/ACID.md",
-    "SI/MiniTeste1/ConcurrencyProblems.md",
-    "SI/MiniTeste1/Serializability.md",
-    "SI/MiniTeste1/WaitForGraph.md",
+    "SI/TypesOfLocks.md~",
+    "2024-03-14.md",
+    "SI/ACID.md",
     "SI/IsolationLevels.md",
-    "SI/MiniTeste1/TransactionStates.md",
-    "SI/MiniTeste1/Schedule.md",
+    "SI/Schedule.md",
+    "SI/Conflicts.md",
+    "SI/Recoverability.md",
+    "SI/ConcurrencyProblems.md",
+    "SI/Serializability.md",
+    "SI/WaitForGraph.md",
+    "SI/TransactionStates.md",
     "SI/images/IsolationTable.png",
     "SI/images/TransactionStates.png",
     "SI/MiniTeste1/Serializability.md~",
