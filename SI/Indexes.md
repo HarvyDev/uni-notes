@@ -24,6 +24,13 @@ Indexes take up extra space in the database, which can be a problem if you have 
 
 Also, indexes can slow down write operations, such as inserting, updating, or deleting data, because the **database has to update the indexes as well**.
 
+## Types of indexes
+
+There are many types of indexes, but the most common ones are:
+- [[B-TreeIndex]]
+- [[HashIndex]]
+
+
 ## How to create an index?
 
 To create an index, you can use the `CREATE INDEX` statement. 
