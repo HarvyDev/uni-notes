@@ -1,0 +1,1 @@
+Business logic can be very complex. Rules and logic describe many different cases and slants of behavior, and it's this complexity that objects were designed to work with. **A Domain Model encapsulates business logic and data within a set of interconnected objects (Entity Objects)**, making the system more modular, maintainable, and easier to work with. 

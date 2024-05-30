@@ -1,0 +1,1 @@
+Much of the code that deals with object-relational mapping describes how fields in the database correspond to fields in in-memory objects. **Metadata Mapping allows developers to define the mappings, which can then be processed by generic code to carry out the details of reading, inserting and updating the data.**
